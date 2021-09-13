@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samuel Jeong
+- 👋 Hi, My name is Samuel Jeong
 - 👀 I’m interested in Swift, iOS Sofware App programming
 - 🌱 I’m currently learning Swift. 
 - 💞️ I have a Notion site www.dev-mel.com
